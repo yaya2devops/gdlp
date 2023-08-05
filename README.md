@@ -11,8 +11,8 @@ Google Cloud Data Loss Prevention is a service as part of Its security catalog t
 
 | Data Format      | Before DLP                                           |    After DLP                                                |
 |-------------     |-------------------------------------------------     |----------------------------------------------------         |
-|    Image         |   [Loan Doc](before/images/loan_doc(1).jpg)         | [Loan Doc](after\images\loan_doc(1).jpg)                   |
-|    CSV   |  [Chat Log](before/csv/SampleChatLogData(1).csv)    |      [Chat Log](after\csv/SampleChatLogData(1).csv)   |
+|    Image         |   [Loan Doc](before/images/loan_doc(1).jpg)         | [Loan Doc](after/images/loan_doc(1).jpg)                   |
+|    CSV   |  [Chat Log](before/csv/SampleChatLogData(1).csv)    |      [Chat Log](after/csv/SampleChatLogData(1).csv)   |
 |    Plaint Text           |       [Visit Log](before/logs/visit-log(1).txt)                                          |        [Visit Log](after/logs/visit-log(1).txt)        
 
 
