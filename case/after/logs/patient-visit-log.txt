@@ -1,0 +1,7 @@
+Patient Visit Log
+
+Patient name is [redacted]. 
+
+Patient was examined for potential complications from high blood pressure. No medication prescribed. Additional tests were ordered for cholesterol and blood sugar levels.
+
+Contact patient at [redacted] or [redacted][redacted][redacted]	to provide test results.

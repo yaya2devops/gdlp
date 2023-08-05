@@ -1,0 +1,7 @@
+Medical Visit Log:
+
+[PERSON_NAME] was born on [DATE_OF_BIRTH] was admitted into the hospital on 5/5/1998.  She was prescribed [FDA_CODE] for a diagnosis of degeneration of cervical intervertebral disc.
+
+Her SSN is [US_SOCIAL_SECURITY_NUMBER]
+
+Contact [PERSON_NAME] at [PHONE_NUMBER].

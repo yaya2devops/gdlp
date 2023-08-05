@@ -1,0 +1,7 @@
+Patient Visit Log
+
+Patient name is Jane Doe. 
+
+Patient was examined for potential complications from high blood pressure. No medication prescribed. Additional tests were ordered for cholesterol and blood sugar levels.
+
+Contact patient at 619-442-1124 or jane.doe@example.org	to provide test results.
