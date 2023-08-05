@@ -1,4 +1,4 @@
-### Lab Support
+### [Lab Support](https://www.cloudskillsboost.google/public_profiles/664bbb5a-6ea0-4005-b3cf-817644fa9c0b/badges/4567903)
 
 ```
 export client_ID=

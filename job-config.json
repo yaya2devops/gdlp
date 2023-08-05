@@ -20,10 +20,10 @@
             ],
             "transformationDetailsStorageConfig": {},
             "transformationConfig": {
-              "deidentifyTemplate": "projects/qwiklabs-gcp-04-61f11722188d/locations/global/deidentifyTemplates/deid_unstruct1",
-              "structuredDeidentifyTemplate": "projects/qwiklabs-gcp-04-61f11722188d/locations/global/deidentifyTemplates/deid_struct1"
+              "deidentifyTemplate": "projects/${client_ID}/locations/global/deidentifyTemplates/deid_unstruct1",
+              "structuredDeidentifyTemplate": "projects/${client_ID}/locations/global/deidentifyTemplates/deid_struct1"
             },
-            "cloudStorageOutput": "gs://qwiklabs-gcp-04-61f11722188d-output"
+            "cloudStorageOutput": "gs://${client_ID}-output"
           }
         }
       ],
@@ -294,7 +294,7 @@
           ],
           "fileSet": {
             "regexFileSet": {
-              "bucketName": "qwiklabs-gcp-04-61f11722188d-input",
+              "bucketName": "${client_ID}-input",
               "includeRegex": [],
               "excludeRegex": []
             }

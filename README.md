@@ -23,4 +23,4 @@ I did redacted *Invented* Patient Intake Form - [Before](case/before/images/pati
 ### Attention
 
 There is still much to uncover regarding the redacted assets in this project. <br>
-I encourage you to explore the folders and investigate further.
+I encourage you to explore the folders and investigate [further](case/README.md).
