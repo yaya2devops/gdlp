@@ -7,11 +7,11 @@ Data Loss Prevention is a service as part of Google Cloud security catalog that 
 
 | Data Format      | Before DLP                                           |    After DLP                                                |
 |-------------     |-------------------------------------------------     |----------------------------------------------------         |
-|    Image         |   [Loan Doc](before/images/loan_doc(1).jpg)         | [Loan Doc](after/images/loan_doc(1).jpg)                   |
+|    Image         |   [Loan Doc](https://raw.githubusercontent.com/yaya2devops/gdlp/main/before/images/loan_doc(1).jpg)         | [Loan Doc](https://raw.githubusercontent.com/yaya2devops/gdlp/main/after/images/loan_doc(1).jpg)                   |
 |    CSV   |  [Chat Log](before/csv/SampleChatLogData(1).csv)    |      [Chat Log](after/csv/SampleChatLogData(1).csv)   |
 |    Plain Text           |       [Visit Log](before/logs/visit-log(1).txt)                                          |        [Visit Log](after/logs/visit-log(1).txt)        
 
-I did redacted an *Invented* Patient Intake Form - [Before](case/before/images/patient-intake-form.PNG) - and - [After](case/after/images/patient-intake-form.PNG).
+I did redacted an *Invented* Patient Intake Form - [Before](https://raw.githubusercontent.com/yaya2devops/gdlp/main/case/before/images/patient-intake-form.PNG) - and - [After](https://raw.githubusercontent.com/yaya2devops/gdlp/main/case/after/images/patient-intake-form.PNG).
 
 *Previously*, I also applied a package and an API to [fulfill my DLP needs](https://github.com/yaya2devops/dlp-api).
 
